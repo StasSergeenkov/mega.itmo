@@ -1,5 +1,0 @@
-
-=== Error correction and assembling warnings:
- * 0:00:11.762    91M / 2284M WARN    General                 (kmer_coverage_model.cpp   : 218)   Too many erroneous kmers, the estimates might be unreliable
- * 0:00:24.094   162M / 2287M WARN    General                 (pair_info_count.cpp       : 376)   Estimated mean insert size 302.387 is very small compared to read length 300
-======= Warnings saved to /home/nochy/spades_output/warnings.log
