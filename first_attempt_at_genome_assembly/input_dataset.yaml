@@ -1,0 +1,7 @@
+- "left reads":
+  - "/home/nochy/pe_1.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/home/nochy/pe_2.fastq"
+  "type": "paired-end"
