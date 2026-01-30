@@ -1,7 +1,3 @@
-pgaptmp_001418	SMC-Scp complex subunit ScpB	pgaptmp_001418	17216	17809	-	COORDINATES: similar to AA sequence:RefSeq:WP_012423021.1
-pgaptmp_001861	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	pgaptmp_001861	13571	14590	+	COORDINATES: similar to AA sequence:RefSeq:WP_011967726.1
-pgaptmp_001936	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	pgaptmp_001936	87772	88488	-	COORDINATES: similar to AA sequence:RefSeq:WP_017825173.1
-pgaptmp_001937	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	pgaptmp_001937	88485	88946	-	COORDINATES: similar to AA sequence:RefSeq:WP_003370935.1
 pgaptmp_000185	botulinum neurotoxin N-terminal receptor binding domain-containing protein		176139	176871	-	COORDINATES: similar to AA sequence:RefSeq:WP_095889390.1
 pgaptmp_000188	botulinum neurotoxin N-terminal receptor binding domain-containing protein	pgaptmp_000188	178664	179575	-	COORDINATES: protein motif:HMM:NF019563.6
 pgaptmp_000638	neurotoxin-associated TULIP family protein P47	pgaptmp_000638	73487	74737	+	COORDINATES: similar to AA sequence:RefSeq:WP_003409822.1
