@@ -1,4 +1,4 @@
-Locus_tag	Product	Protein_ID	Start	End
+Locus_tag	Product	Protein_ID	Start  End
 pgaptmp_000185	botulinum neurotoxin N-terminal receptor binding domain-containing protein	WP_095889390.1	176139	176871	
 pgaptmp_000188	botulinum neurotoxin N-terminal receptor binding domain-containing protein	HMM:NF019563.6	178664	179575
 pgaptmp_000638	neurotoxin-associated TULIP family protein P47	WP_003409822.1	73487	74737
