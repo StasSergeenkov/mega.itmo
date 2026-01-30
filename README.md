@@ -23,6 +23,8 @@ spades.py --isolate -1 pe_1.fastq -2 pe_2.fastq -o spades_output -t 16 -m 32
 [Выходные данные](first_attempt_at_genome_assembly)
 
 **Выравнивание и поиск совпадений**
+В результате поиска в BLAST обнаружено, что присутствует множество нерелевантных совпадений: с _Clostridium botulinum B str. Eklund 17B_, complete genome, с _Salmonella enterica subsp. enterica serovar Typhi str. CT18_, complete genome и другими штаммами и сборками.
+[Выходные данные выравнивания БД](ncbi_blast_first_alignment/first_alignment_of_the_assembly_BEFORE_TRIMMED.csv)
 
 
 **Осознание своих ошибок - путь к истине**
