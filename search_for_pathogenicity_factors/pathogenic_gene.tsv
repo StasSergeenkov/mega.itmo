@@ -1,3 +1,4 @@
+Locus_tag	Product	Protein_ID	Start	End	Strand	Inference
 pgaptmp_000185	botulinum neurotoxin N-terminal receptor binding domain-containing protein		176139	176871	-	COORDINATES: similar to AA sequence:RefSeq:WP_095889390.1
 pgaptmp_000188	botulinum neurotoxin N-terminal receptor binding domain-containing protein	pgaptmp_000188	178664	179575	-	COORDINATES: protein motif:HMM:NF019563.6
 pgaptmp_000638	neurotoxin-associated TULIP family protein P47	pgaptmp_000638	73487	74737	+	COORDINATES: similar to AA sequence:RefSeq:WP_003409822.1
