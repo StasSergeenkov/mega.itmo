@@ -1,20 +1,8 @@
-pgaptmp_000987	phosphate signaling complex protein PhoU	pgaptmp_000987	96952	97608	+	COORDINATES: similar to AA sequence:RefSeq:WP_012423705.1
-pgaptmp_001027	elongator complex protein 3	pgaptmp_001027	136432	137454	+	COORDINATES: similar to AA sequence:RefSeq:WP_003372018.1
 pgaptmp_001418	SMC-Scp complex subunit ScpB	pgaptmp_001418	17216	17809	-	COORDINATES: similar to AA sequence:RefSeq:WP_012423021.1
-pgaptmp_001708	type VII toxin-antitoxin system MntA family adenylyltransferase antitoxin	pgaptmp_001708	314748	315164	-	COORDINATES: similar to AA sequence:RefSeq:WP_012101631.1
 pgaptmp_001861	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD	pgaptmp_001861	13571	14590	+	COORDINATES: similar to AA sequence:RefSeq:WP_011967726.1
 pgaptmp_001936	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	pgaptmp_001936	87772	88488	-	COORDINATES: similar to AA sequence:RefSeq:WP_017825173.1
 pgaptmp_001937	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	pgaptmp_001937	88485	88946	-	COORDINATES: similar to AA sequence:RefSeq:WP_003370935.1
-pgaptmp_002217	flagellar hook-basal body complex protein FliE	pgaptmp_002217	394112	394438	+	COORDINATES: similar to AA sequence:RefSeq:WP_003374744.1
-pgaptmp_002226	flagellar hook-basal body complex protein	pgaptmp_002226	402432	403532	+	COORDINATES: similar to AA sequence:RefSeq:WP_003373706.1
-pgaptmp_002227	flagellar hook-basal body complex protein	pgaptmp_002227	403729	404823	+	COORDINATES: similar to AA sequence:RefSeq:WP_012425401.1
-pgaptmp_002730	type II toxin-antitoxin system PemK/MazF family toxin	pgaptmp_002730	41981	42334	+	COORDINATES: similar to AA sequence:RefSeq:WP_002582522.1
-pgaptmp_002835	type VII toxin-antitoxin system HepT family RNase toxin	pgaptmp_002835	170383	170790	+	COORDINATES: similar to AA sequence:RefSeq:WP_011987374.1
-pgaptmp_003426	type II toxin-antitoxin system RnlA family toxin	pgaptmp_003426	229377	230444	+	COORDINATES: protein motif:HMM:NF039216.5
-pgaptmp_003476	type VII toxin-antitoxin system MntA family adenylyltransferase antitoxin	pgaptmp_003476	29552	29920	+	COORDINATES: similar to AA sequence:RefSeq:WP_017825655.1
 pgaptmp_000185	botulinum neurotoxin N-terminal receptor binding domain-containing protein		176139	176871	-	COORDINATES: similar to AA sequence:RefSeq:WP_095889390.1
 pgaptmp_000188	botulinum neurotoxin N-terminal receptor binding domain-containing protein	pgaptmp_000188	178664	179575	-	COORDINATES: protein motif:HMM:NF019563.6
-pgaptmp_000637	toxin	pgaptmp_000637	72765	73193	-	COORDINATES: similar to AA sequence:RefSeq:WP_011987706.1
 pgaptmp_000638	neurotoxin-associated TULIP family protein P47	pgaptmp_000638	73487	74737	+	COORDINATES: similar to AA sequence:RefSeq:WP_003409822.1
-pgaptmp_000639	non-toxic nonhemagglutinin NTNH	pgaptmp_000639	74752	78249	+	COORDINATES: similar to AA sequence:RefSeq:WP_003372331.1
 pgaptmp_000640	botulinum neurotoxin subtype F6	pgaptmp_000640	78261	82088	+	COORDINATES: similar to AA sequence:RefSeq:WP_324618485.1
