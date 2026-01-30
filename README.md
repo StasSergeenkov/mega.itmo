@@ -33,7 +33,9 @@ _предположим, что некий патогенный организм
 ./fastp -i pe_1.fastq -I pe_2.fastq -o trimmed_R1.fastq -O trimmed_R2.fastq --detect_adapter_for_pe -q 10 -u 30 -l 50 --html fastp_report.html --json fastp_report.json
 ```
 [Выходные данные выполнения триммирования](https://web-projects.kvnel.ru/ivan/trimmed/fastp_report.html)
+
 [Триммированное прямое чтение](https://web-projects.kvnel.ru/ivan/trimmed/trimmed_R1.fastq)
+
 [Триммированное обратное чтение](https://web-projects.kvnel.ru/ivan/trimmed/trimmed_R2.fastq)
 
 Сборка производилась аналогично первой попытке: посредством SPAdes:
